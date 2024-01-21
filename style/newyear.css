@@ -1,0 +1,25 @@
+.head{
+    width: 80%;
+    text-align: center;
+    margin: 60px 135px;
+ }
+ .head img{
+  border-radius: 16px;
+  background-color: #070211;
+ }
+ .head-text{
+  margin-top: -360px;
+  color: #fff;
+ }
+ .head h5{
+     font-family: monospace;
+     font-size: 23px;
+     font-weight: 400;
+ }
+ .head h2{
+     width: 30%;
+     margin: auto;
+     font-family: serif;
+     font-size: 46px;
+     font-weight: 900;
+ }
