@@ -55,8 +55,8 @@ margin-top: -15px;
 width: 40%;
  }
  .body-two{
-
- }
+margin-bottom: 200px;
+}
  .body-two img{
   width: 80%;
   margin: 60px 156px;
@@ -90,7 +90,7 @@ color: rgba(255, 255, 255, 0.80);
 font-family: Inter;    
 font-size: 18px;    
 font-weight: 400;   
-line-height: 30px; /* 166.667% */
+line-height: 30px;
 }
 .description h6{   
 font-family: Inter;    
@@ -100,4 +100,103 @@ text-transform: uppercase;
 .description h6 a{   
 text-decoration: none;   
 color: #fff;
+}
+.body-three{
+    width: 80%;
+    margin: auto;
+    padding: 60px 0px;
+    text-align: center;
+    border-radius: 11px;
+    text-decoration: none;
+    background-color: rgba(255, 0, 0, 0.10);
+    margin-bottom: 121px;
+}
+.body-three ul{
+    list-style: none;
+}
+.body-three ul li{
+color: #070211;
+font-size: 25px;
+font-weight: 600;
+line-height: 35px;
+text-transform: capitalize;
+}
+.index{
+color: #F00;
+}
+.btn-join{
+    border-radius: 5px;
+    background: #FF0000;
+    border: 0;
+    color: #FFF;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 10px 26px;
+    text-transform: uppercase;
+    margin-top: 24px;
+}
+.body-four{
+width: 80%;
+margin: auto;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.four-one{
+
+}
+.four-one h5{ 
+color: #F00;    
+font-family: Inter; 
+font-size: 22px;   
+font-weight: 500;
+}
+.four-one h2{
+color: #070211;
+font-family: Merriweather;
+font-size: 46px; 
+font-weight: 900;
+text-transform: capitalize;
+margin-top: -30px;
+}
+.four-one p{
+color: rgba(7, 2, 17, 0.60);  
+font-family: Inter;  
+font-size: 18px;  
+font-weight: 400;  
+line-height: 32px; 
+}
+.four-two{
+width: 100%;
+margin-left: 40px;
+border-radius: 50%;
+border: 15px solid #FF0000;
+text-align: center;
+}
+.four-two img{
+    width: 90%;
+}
+.four-three{
+    margin: auto;
+    margin-left: 180px;
+}
+.four-three h3{   
+color: #F00;   
+font-family: Inter;   
+font-size: 48px;   
+font-style: normal;   
+font-weight: 700;   
+line-height: normal;
+}
+.four-three p{    
+color: rgba(7, 2, 17, 0.60);   
+    font-family: Inter;   
+font-size: 20px;   
+font-style: normal;   
+font-weight: 400;   
+line-height: 32px; 
+}
+.four-three img{
+    
 }
