@@ -184,25 +184,20 @@ text-align: center;
 .four-three h3{   
 color: #F00;   
 font-family: Inter;   
-font-size: 48px;   
-font-style: normal;   
+font-size: 48px;    
 font-weight: 700;   
-line-height: normal;
 }
 .four-three p{    
 color: rgba(7, 2, 17, 0.60);    
-font-size: 20px;   
-font-style: normal;   
+font-size: 20px;     
 font-weight: 400;   
 line-height: 32px; 
 }
-.four-three img{
-    
-}
 .body-five{
-width: 80%;
-margin: auto;
-text-align: center;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 10%;
 }
 .body-five-head{
 
@@ -240,12 +235,114 @@ margin: auto;
     justify-content: center;
     align-items: center;
 }
-.colunm-one{
-
+.body-six{
+    width: 80%;
+    margin: auto;
+    margin-bottom: 5%;
 }
-.colunm-two{
-
+.body-six h2{
+    color: #070211;
+    font-size: 44px;
+    font-weight: 900;
+    text-transform: capitalize;
 }
-.body-five-last{
-    
+.body-six h4{
+    color: #F00;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: -39px;
+}
+.body-six p{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 18px;
+    width: 50%;
+    font-weight: 400;
+    margin-top: -25px;
+}
+.gellary{
+ width: 80%;
+ margin: auto;
+ margin-top: 30px;
+}
+.one{
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+ gap: 10px;
+ margin-bottom: 10px;
+}
+.two{
+ display: flex;
+ justify-content: space-around;
+ gap: 10px;
+}
+.body-seven{
+width: 80%;
+margin: auto;
+text-align: center;
+border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+}
+.body-seven img{
+   
+}
+.body-seven h3{  
+color: #070211;    
+font-size: 30px;   
+font-weight: 900;   
+text-transform: capitalize;
+}
+.body-seven p{    
+width: 70%;   
+margin: auto;  
+color: rgba(7, 2, 17, 0.60);   
+font-size: 18px;  
+font-weight: 400;  
+margin-bottom: 30px;
+}
+.contact{
+    display: block;
+    padding: 15px;
+    border-radius: 5px;
+    border: 0;
+}
+.contact, input[type="text"]{
+    border-radius: 5px;
+    background: #FD6E0A;
+    border: 0;
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin: 35px 338px;
+}
+footer{
+background: #070211;
+color: #fff;
+margin-top: 28px;
+}
+.footer-row-one{
+width: 70%;
+margin: auto;
+padding: 30px;
+display: flex;
+justify-content: space-between;
+}
+.footer-adress p{
+width: 55%;
+}
+.foot-icon{
+width: 21%;
+margin: auto;
+}
+.footer-row-three{
+width: 70%;
+margin: auto;
+margin-top: 42px;
+margin-bottom: 40px;
+display: flex;
+justify-content: space-between;
+}
+.footer-row-three p{
+   margin-bottom: 50px;
 }
